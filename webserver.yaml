@@ -17,7 +17,7 @@ spec:
           image: docker.io/dkimot/jumprope-webserver
           env:
           - name: SITE_NAME
-            value: 'calvinarts.co'
+            value: '104.154.41.57'
           - name: REPO_QUANT
             value: '2'
           - name: REPO_0_LOCAL
